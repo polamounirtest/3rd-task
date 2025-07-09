@@ -62,3 +62,7 @@ html::-webkit-scrollbar-thumb {
     padding: 1rem;
   }
 }
+
+#home {
+   background-image: url('../img/home3.jpg');
+  }
